@@ -41,6 +41,11 @@ public class Loops {
 			System.out.println(counter);
 		}
 		
+		// teste
+		
+	}
+	static void teste (){
+		
 	}
 
 }
