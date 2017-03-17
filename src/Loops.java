@@ -44,8 +44,5 @@ public class Loops {
 		// teste
 		
 	}
-	static void teste (){
-		
-	}
 
 }
