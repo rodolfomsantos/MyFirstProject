@@ -1,3 +1,4 @@
+package tutorials.basic;
 
 public class AccessModifiers {
 
@@ -5,6 +6,9 @@ public class AccessModifiers {
 	// default
 	// protected
 	// public
+	
+	int x;
+	protected int y;
 	
 	public static void main(String[] args) {
 		
